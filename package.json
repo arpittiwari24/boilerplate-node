@@ -1,6 +1,6 @@
 {
   "name": "@arrpit24/boilernode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a package which comes handy  to start your nodejs project within seconds ",
   "main": "index.js",
   "type":"module",
