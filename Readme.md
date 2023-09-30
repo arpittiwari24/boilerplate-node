@@ -7,7 +7,7 @@ BoilerNode is an npm package which lets you start your nodejs and mongodb backen
 Use the package manager [npm](https://www.npmjs.com/) to install boilerplate-node.
 
 ```bash
-npm install boilernode
+npm install @arrpit24/boilernode
 ```
 
 ## License
