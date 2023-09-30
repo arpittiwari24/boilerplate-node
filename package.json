@@ -1,0 +1,40 @@
+{
+  "name": "boilerplate-node",
+  "version": "1.0.0",
+  "description": "This is a package which comes handy  to start your nodejs project within seconds ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpittiwari24/boilerplate-node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "backend",
+    "start",
+    "project",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Arrpit Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpittiwari24/boilerplate-node/issues"
+  },
+  "homepage": "https://github.com/arpittiwari24/boilerplate-node#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.3"
+  }
+}
