@@ -11,6 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/arpittiwari24/boilerplate-node.git"
   },
+  "files": [
+    "controllers/",
+    "middleware/",
+    "models/",
+    "routes/",
+    "config/",
+    "utils/",
+    "index.js",
+    "app.js",
+    "config.env"
+  ],
   "keywords": [
     "node",
     "nodejs",
